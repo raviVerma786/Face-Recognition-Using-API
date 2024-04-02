@@ -1,0 +1,20 @@
+.appVideo {
+  width: 100%;
+  height: 100%;
+  text-align: center;
+}
+
+.appCanvas {
+  position: absolute;
+  /* top: 100px; */
+  bottom: 2rem;
+}
+
+.myApp {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
